@@ -1,4 +1,5 @@
 # \[Codeonomics Crew\]
+*Project for the course "Introduction to Programming and Numerical Analysis* for the year 2024.
 
 **Group members:**
 - Rasmus Strøbæk
